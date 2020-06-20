@@ -1,0 +1,2 @@
+> os.execute("/bin/bash -i")
+sysadmin@traceback:~$ 
